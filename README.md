@@ -1,4 +1,4 @@
-# cleanCoding
+# CashFlow
 The following programming task was set for me during a recent internship.
 Here is the specification:
 
